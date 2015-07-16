@@ -1,6 +1,6 @@
 # stackoverflow-questions-31182261
 
-This project is a proof of [this question](http://stackoverflow.com/questions/31182261/thymeleaf-at-syntax-returns-empty-if-i-include-resourceurlencodingfilter/31331691?noredirect=1#comment50827082_31331691).
+This project is a proof of [this question](http://stackoverflow.com/questions/31182261/thymeleaf-at-syntax-returns-empty-if-i-include-resourceurlencodingfilter/31331691).
 
 ## Build and running
 
